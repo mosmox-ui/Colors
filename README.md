@@ -20,13 +20,6 @@ pnpm add @mosmox-ui/colors
 yarn add @mosmox-ui/colors
 ~~~
 
-For local use from the PrivateUI monorepository:
-
-~~~bash
-cd performance-benchmarks/apps/mosmox-ui
-npm install ../../../colors
-~~~
-
 ## Color scales and tones
 
 The main colors export is indexed by scale and tone:
