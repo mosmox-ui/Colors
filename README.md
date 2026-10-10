@@ -158,5 +158,4 @@ The published package includes dist/, src/, README.md, and LICENSE. It is tree-s
 
 ## Links
 
-- Mosmox UI documentation: https://mosmox-ui.github.io/
 - Mosmox UI GitHub organization: https://github.com/mosmox-ui
