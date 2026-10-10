@@ -158,4 +158,6 @@ The published package includes dist/, src/, README.md, and LICENSE. It is tree-s
 
 ## Links
 
+- npm package: https://www.npmjs.com/package/@mosmox-ui/colors
+- GitHub repository: https://github.com/mosmox-ui/Colors
 - Mosmox UI GitHub organization: https://github.com/mosmox-ui
