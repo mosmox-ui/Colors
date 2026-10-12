@@ -1,6 +1,11 @@
 {
   "name": "@mosmox-ui/colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "homepage": "https://ui.mosmox.com/docs/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mosmox-ui/Colors.git"
+  },
   "description": "Named tonal color tokens and React swatches.",
   "license": "MIT",
   "type": "module",
